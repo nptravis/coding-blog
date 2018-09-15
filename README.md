@@ -1,0 +1,1 @@
+A simple coing blog for Nic Travis, created with a template from the great folks at HTML5up, https://html5up.net/
